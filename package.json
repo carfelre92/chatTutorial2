@@ -1,0 +1,16 @@
+{
+  "name": "firebase-basic-chat-video-tutorial",
+  "version": "0.0.0",
+  "description": "No description",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "^33.0.0",
+    "firebase": "4.8.1",
+    "react": "^16.8.6",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-33.0.0.tar.gz",
+    "react-native-gifted-chat": "^0.9.6",
+    "react-navigation": "2.3.1"
+  }
+}
