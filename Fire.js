@@ -9,12 +9,13 @@ class Fire {
   init = () => {
     if (!firebase.apps.length) {
       firebase.initializeApp({
-        apiKey: 'AIzaSyDLgW8QG1qO8O5WZLC1U8WaqCr5-CvEVmo',
-        authDomain: 'chatter-b85d7.firebaseapp.com',
-        databaseURL: 'https://chatter-b85d7.firebaseio.com',
-        projectId: 'chatter-b85d7',
-        storageBucket: '',
-        messagingSenderId: '861166145757',
+        apiKey: "AIzaSyDElcigdNiD11G938bU3-6FHhFdtVF-Ppk",
+    authDomain: "flatmateapp1-b2dc4.firebaseapp.com",
+    databaseURL: "https://flatmateapp1-b2dc4.firebaseio.com",
+    projectId: "flatmateapp1-b2dc4",
+    storageBucket: "",
+    messagingSenderId: "22618451662",
+
       });
     }
   };
